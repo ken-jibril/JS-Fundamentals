@@ -1,4 +1,4 @@
-let languages = ['C is cool',
-                 'Python is cool', 
-                 'JavaScript is amazing'];
-console.log(languages);
+let languages = ['C is fun ', 'Python is cool ', 'JavaScript is amazing'];
+
+for (let i = 0; i < languages.length; i++)
+    console.log(languages[i]);
